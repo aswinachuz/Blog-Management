@@ -369,14 +369,12 @@ a {
 }
 
 .card-description {
-  display: -webkit-box;
-  overflow: hidden;
   margin: 0 0 18px;
   color: var(--muted);
   font-size: 0.86rem;
   line-height: 1.65;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .card-footer {
