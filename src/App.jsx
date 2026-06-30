@@ -278,7 +278,7 @@ function App() {
     <div className="app-shell">
       <header className="app-header">
         <a className="brand" href="#" aria-label="DevPulse home">
-          <span className="brand-mark">D</span>
+          <span className="brand-mark">B M</span>
           <span>
             Blog Management
             <small>Stories worth sharing</small>
