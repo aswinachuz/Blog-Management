@@ -20,7 +20,7 @@ const SAMPLE_BLOGS = [
       "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=1200&q=80",
     title: "Getting Started with React Components",
     category: "React",
-    author: "Rahul Nair",
+    author: "Cristiano Ronaldo",
     description:
       "React components are reusable building blocks that make complex interfaces easier to understand, test, and maintain. Start small, compose thoughtfully, and let your UI grow naturally.",
     date: "2026-06-19",
@@ -31,7 +31,7 @@ const SAMPLE_BLOGS = [
       "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=80",
     title: "Essential JavaScript Concepts for Beginners",
     category: "JavaScript",
-    author: "Anjaly Thomas",
+    author: "Joseph Vijay",
     description:
       "A practical tour of array methods, arrow functions, template literals, destructuring, and the other modern JavaScript ideas that make React code feel clear and expressive.",
     date: "2026-06-17",
@@ -42,7 +42,7 @@ const SAMPLE_BLOGS = [
       "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&w=1200&q=80",
     title: "Designing Layouts with CSS Grid",
     category: "CSS",
-    author: "Amit Kumar",
+    author: "Lionel Messi",
     description:
       "CSS Grid gives you precise two-dimensional control without brittle positioning. Learn a few dependable patterns for dashboards, article feeds, and responsive card layouts.",
     date: "2026-06-15",
@@ -470,8 +470,8 @@ function App() {
       </main>
 
       <footer>
-        <span>DevPulse</span>
-        <p>Built for curious minds and thoughtful makers.</p>
+        <span>Blog Management</span>
+        <p>Built for curious minds of Softronics.</p>
       </footer>
     </div>
   );
