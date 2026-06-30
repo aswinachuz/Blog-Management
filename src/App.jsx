@@ -280,7 +280,7 @@ function App() {
         <a className="brand" href="#" aria-label="DevPulse home">
           <span className="brand-mark">D</span>
           <span>
-            DevPulse
+            Blog Management
             <small>Stories worth sharing</small>
           </span>
         </a>
